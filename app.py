@@ -39,8 +39,7 @@ df_input = user_input_features()
 st.subheader('Parameter Input Pengguna:')
 st.write(df_input)
 
-# Define the exact columns and their dtypes expected by the model
-during training
+# Define the exact columns and their dtypes expected by the model during training
 # This list ensures correct order and includes all dummy variables used
 during training
 training_columns_and_dtypes = {
